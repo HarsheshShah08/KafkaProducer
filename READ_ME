@@ -1,0 +1,5 @@
+ This is baseline program for Kafka Consumer. 
+ 
+ It uses the database authentication and streaming of the Kafka topics.
+ 
+ 
